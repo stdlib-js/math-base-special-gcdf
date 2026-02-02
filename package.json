@@ -43,10 +43,10 @@
     "@stdlib/constants-float32-ninf": "^0.2.2",
     "@stdlib/constants-float32-pinf": "^0.2.2",
     "@stdlib/constants-int32-max": "^0.3.0",
-    "@stdlib/math-base-assert-is-integerf": "github:stdlib-js/math-base-assert-is-integerf#main",
+    "@stdlib/math-base-assert-is-integerf": "^0.1.0",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
-    "@stdlib/math-base-napi-binary": "^0.3.1",
-    "@stdlib/math-base-special-fmodf": "github:stdlib-js/math-base-special-fmodf#main",
+    "@stdlib/math-base-napi-binary": "^0.3.2",
+    "@stdlib/math-base-special-fmodf": "^0.1.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
